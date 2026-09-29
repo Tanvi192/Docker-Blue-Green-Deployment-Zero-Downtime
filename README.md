@@ -261,4 +261,4 @@ docker exec nginx nginx -s reload
 ---
 
 ## 👨‍💻 Author
-Suraj Molke
+Tanvi Nilakhe
